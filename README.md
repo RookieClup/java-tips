@@ -15,7 +15,7 @@
 
 ## 目录
 
-- lambda 中如何处理异常？[视频](https://t.co/xvk9xh3BEy) / [代码](src/main/java/javatips/lambda/exception)
+- lambda 中如何处理异常？[视频](https://youtu.be/W3OfqnTVkbc) / [代码](src/main/java/javatips/lambda/exception)
 
 ## 其他
 
